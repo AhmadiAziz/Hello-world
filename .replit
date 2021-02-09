@@ -1,0 +1,2 @@
+language = "Hello world"
+console.log(language)
